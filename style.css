@@ -44,6 +44,7 @@ img {
   width: 330px;
   max-width: 90%;
   text-align: center;
+  box-shadow: 0 10px 30px rgba(157, 180, 207, 0.5);
 }
 .card .img-wrap {
   border-radius: 12px;
